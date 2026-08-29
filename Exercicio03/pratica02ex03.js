@@ -1,0 +1,1 @@
+alert("Hello, word!! (arquivo externo)");
